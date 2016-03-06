@@ -12,3 +12,7 @@ https://help.ubuntu.com/community/EnvironmentVariables#Persistent_environment_va
 mailgun
 
 https://www.digitalocean.com/community/questions/failed-to-verify-domain-on-mailgun
+
+action mailer
+
+http://stackoverflow.com/questions/957422/rails-actionmailer-format-sender-and-recipient-name-email-address/8106387#8106387
