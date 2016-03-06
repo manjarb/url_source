@@ -1,4 +1,5 @@
 RAILS_ENV=production rails server
 rake assets:precompile RAILS_ENV=production
+rake assets:clobber
 
 cap production deploy
