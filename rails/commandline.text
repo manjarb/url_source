@@ -1,2 +1,4 @@
 RAILS_ENV=production rails server
 rake assets:precompile RAILS_ENV=production
+
+cap production deploy
