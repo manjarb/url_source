@@ -3,3 +3,13 @@ rake assets:precompile RAILS_ENV=production
 rake assets:clobber
 
 cap production deploy
+
+capistrano copy missing file
+  desc 'copy missing css'
+  task :copy_missing_css do
+    on roles(:app) , in: :sequence, wait: 1 do
+      execute "rsync -a #{release_path}/vendor/assets/stylesheets/fontello/ #{release_path}/public/assets/fontello"
+      execute "rsync -a #{release_path}/vendor/assets/stylesheets/icon_restaurant/ #{release_path}/public/assets/icon_restaurant"
+
+    end
+  end
