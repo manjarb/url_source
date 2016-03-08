@@ -11,6 +11,7 @@ https://help.ubuntu.com/community/EnvironmentVariables#Persistent_environment_va
 
 sidekiq redis
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-redis
+http://railscasts.com/episodes/366-sidekiq?autoplay=true
 
 mailgun
 
