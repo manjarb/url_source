@@ -9,6 +9,9 @@ https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu
 http://stackoverflow.com/questions/30981435/digital-ocean-ubuntu-ssh-port-number
 https://help.ubuntu.com/community/EnvironmentVariables#Persistent_environment_variables
 
+redis
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-redis
+
 mailgun
 
 https://www.digitalocean.com/community/questions/failed-to-verify-domain-on-mailgun
@@ -23,3 +26,4 @@ http://stackoverflow.com/questions/10432266/https-redirect-for-rails-app-behind-
 
 HTML
 http://stackoverflow.com/questions/4052906/how-to-display-content-with-raw-html
+
