@@ -12,6 +12,7 @@ https://help.ubuntu.com/community/EnvironmentVariables#Persistent_environment_va
 sidekiq redis
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-redis
 http://railscasts.com/episodes/366-sidekiq?autoplay=true
+http://stackoverflow.com/questions/14790727/how-to-detach-sidekiq-process-once-started-in-terminal/16263330#16263330
 
 mailgun
 
