@@ -1,3 +1,9 @@
+### for rails angular
+
+rails new --skip-turbolinks --skip-spring --skip-test-unit -d postgresql shine
+
+#### for server
+
 RAILS_ENV=production rails server
 rake assets:precompile RAILS_ENV=production
 rake assets:clobber
