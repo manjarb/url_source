@@ -20,6 +20,21 @@ capistrano copy missing file
     end
   end
   
+  desc 'clear temp cache'
+  task :clear_cache do
+    on roles(:app) , in: :sequence, wait: 1 do
+      execute "rm -rf #{shared_path}/tmp/cache/[^.]*"
+
+    end
+  end
+
+  desc 'Clear memcache'
+  task :clear => :environment do
+    on roles(:app) , in: :sequence, wait: 2 do
+      Rails.cache.clear
+      CACHE.flush
+    end
+  end
   
 To copy a file from B to A while logged into B:
 
