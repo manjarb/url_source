@@ -29,7 +29,7 @@ capistrano copy missing file
   end
 
   desc 'Clear memcache'
-  task :clear => :environment do
+  task :clear do
     on roles(:app) , in: :sequence, wait: 2 do
       Rails.cache.clear
       CACHE.flush
