@@ -50,3 +50,6 @@ https://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
 
 Asset pipeline
 http://stackoverflow.com/questions/10905905/using-fonts-with-rails-asset-pipeline
+
+Carrierwave image upload
+http://stackoverflow.com/questions/25712027/nameerror-uninitialized-constant-articleimageuploader-when-using-carrierwave
