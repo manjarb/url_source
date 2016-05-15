@@ -59,6 +59,9 @@ http://stackoverflow.com/questions/10905905/using-fonts-with-rails-asset-pipelin
 Carrierwave image upload
 http://stackoverflow.com/questions/25712027/nameerror-uninitialized-constant-articleimageuploader-when-using-carrierwave
 
+Database seed
+https://gist.github.com/arjunvenkat/1115bc41bf395a162084
+
 Errors 
 http://stackoverflow.com/questions/20368717/rails-i-cant-pass-a-validation-error-in-a-redirect
 
