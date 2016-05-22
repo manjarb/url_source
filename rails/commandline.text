@@ -36,6 +36,11 @@ capistrano copy missing file
     end
   end
   
+Seed Database
+
+rake db:seed RAILS_ENV=test --trace
+rake db:seed RAILS_ENV=production --trace
+  
 To copy a file from B to A while logged into B:
 
 scp /path/to/file username@a:/path/to/destination
