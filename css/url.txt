@@ -1,0 +1,4 @@
+css
+
+image vertical align
+http://jsfiddle.net/kizu/4RPFa/4570/
