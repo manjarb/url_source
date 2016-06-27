@@ -11,6 +11,9 @@ http://stackoverflow.com/questions/30981435/digital-ocean-ubuntu-ssh-port-number
 https://help.ubuntu.com/community/EnvironmentVariables#Persistent_environment_variables
 http://askubuntu.com/questions/312697/copy-files-from-remote-ubuntu-to-local-mac
 http://stackoverflow.com/questions/21098534/shared-children-not-working-in-capistrano-3
+http://www.december.com/unix/ref/chmod.html
+http://stackoverflow.com/questions/29578142/how-to-install-json-gem-failed-to-build-gem-native-extensionmac-10-10
+http://stackoverflow.com/questions/16973018/createuser-could-not-connect-to-database-postgres-fatal-role-tom-does-not-e
 
 Hosting Was
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html
@@ -25,6 +28,9 @@ http://stackoverflow.com/questions/14790727/how-to-detach-sidekiq-process-once-s
 mailgun
 
 https://www.digitalocean.com/community/questions/failed-to-verify-domain-on-mailgun
+
+MailChimp
+https://mandrill.zendesk.com/hc/en-us/articles/205582127-How-to-Use-the-SMTP-Integration-with-Popular-Web-Frameworks
 
 action mailer
 
@@ -64,6 +70,10 @@ https://gist.github.com/arjunvenkat/1115bc41bf395a162084
 
 Errors 
 http://stackoverflow.com/questions/20368717/rails-i-cant-pass-a-validation-error-in-a-redirect
+http://stackoverflow.com/questions/19406402/current-page-wrong-after-post
 
 Active record
 http://stackoverflow.com/questions/1550688/how-do-i-create-a-default-value-for-attributes-in-rails-activerecords-model
+
+Arrays
+http://stackoverflow.com/questions/4610843/how-to-sort-an-array-of-objects-by-an-attribute-of-the-objects
