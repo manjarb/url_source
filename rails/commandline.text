@@ -56,3 +56,7 @@ NGNIX
 
 sudo service nginx restart
 nginx -c /etc/nginx/nginx.conf -t
+
+redis
+
+bundle exec sidekiq -e production
