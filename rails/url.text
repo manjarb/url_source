@@ -88,3 +88,6 @@ http://stackoverflow.com/questions/26393659/devise-and-rspec-undefined-method-au
 https://github.com/plataformatec/devise#test-helpers
 http://stackoverflow.com/questions/24197233/unitialized-constant-devise-rspec
 https://github.com/thoughtbot/shoulda-matchers/issues/684
+
+Devise
+http://stackoverflow.com/questions/20875591/actioncontrollerinvalidauthenticitytoken-in-registrationscontrollercreate
