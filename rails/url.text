@@ -91,3 +91,6 @@ https://github.com/thoughtbot/shoulda-matchers/issues/684
 
 Devise
 http://stackoverflow.com/questions/20875591/actioncontrollerinvalidauthenticitytoken-in-registrationscontrollercreate
+
+Active model serialize
+http://stackoverflow.com/questions/39794788/how-to-return-parent-data-from-rails-activemodelserializers/39800687#39800687
