@@ -1,0 +1,15 @@
+https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh
+// https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04#how-to-set-up-git
+https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-ubuntu-14-04
+// https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-unicorn-and-nginx-on-ubuntu-14-04
+https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
+http://stackoverflow.com/questions/34420554/there-was-an-error-while-trying-to-load-the-gem-uglifier-bundlergemrequire
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+http://stackoverflow.com/questions/30981435/digital-ocean-ubuntu-ssh-port-number
+https://help.ubuntu.com/community/EnvironmentVariables#Persistent_environment_variables
+http://askubuntu.com/questions/312697/copy-files-from-remote-ubuntu-to-local-mac
+http://stackoverflow.com/questions/21098534/shared-children-not-working-in-capistrano-3
+http://www.december.com/unix/ref/chmod.html
+http://stackoverflow.com/questions/29578142/how-to-install-json-gem-failed-to-build-gem-native-extensionmac-10-10
+http://stackoverflow.com/questions/16973018/createuser-could-not-connect-to-database-postgres-fatal-role-tom-does-not-e
