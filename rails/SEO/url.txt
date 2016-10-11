@@ -1,0 +1,9 @@
+Searching optimize
+
+https://robots.thoughtbot.com/implementing-multi-table-full-text-search-with-postgres
+https://github.com/Casecommons/pg_search
+https://www.elastic.co/products/elasticsearch
+https://github.com/ankane/searchkick
+https://elements.heroku.com/addons/searchbox
+http://www.sitepoint.com/full-text-search-rails-elasticsearch/
+http://www.codinginthecrease.com/news_article/show/409843
