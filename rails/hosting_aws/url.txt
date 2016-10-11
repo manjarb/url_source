@@ -1,0 +1,3 @@
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
