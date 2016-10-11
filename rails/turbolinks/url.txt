@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/18770517/rails-4-how-to-use-document-ready-with-turbo-links
