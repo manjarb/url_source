@@ -1,1 +1,2 @@
 http://stackoverflow.com/questions/1550688/how-do-i-create-a-default-value-for-attributes-in-rails-activerecords-model
+http://stackoverflow.com/questions/328525/how-can-i-set-default-values-in-activerecord
