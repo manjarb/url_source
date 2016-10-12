@@ -1,1 +1,4 @@
 http://stackoverflow.com/questions/39794788/how-to-return-parent-data-from-rails-activemodelserializers/39800687#39800687
+http://stackoverflow.com/questions/40002720/how-to-render-parent-data-of-nested-object-via-active-model-serializers-for-rail?noredirect=1#comment67284285_40002720
+
+http://stackoverflow.com/questions/33620859/changing-active-model-serializers-default-adapter
