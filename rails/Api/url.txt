@@ -1,5 +1,6 @@
 Create Api default set
 http://sourcey.com/building-the-prefect-rails-5-api-only-app/
+https://www.codeschool.com/blog/2014/02/03/token-based-authentication-rails/
 
 Upload image
 http://tutorials.pluralsight.com/ruby-ruby-on-rails/handling-file-upload-using-ruby-on-rails-5-api
