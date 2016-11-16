@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/6977899/can-i-get-rails-debugging-output-in-pow-similar-to-webrick
