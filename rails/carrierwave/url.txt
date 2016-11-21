@@ -1,0 +1,1 @@
+https://github.com/carrierwaveuploader/carrierwave/blob/c2ee2e89d3aa447c6b81186be6d627202d33a97f/lib/carrierwave/locale/en.yml#L11
