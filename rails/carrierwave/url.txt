@@ -1,2 +1,3 @@
 https://github.com/carrierwaveuploader/carrierwave/blob/c2ee2e89d3aa447c6b81186be6d627202d33a97f/lib/carrierwave/locale/en.yml#L11
 http://stackoverflow.com/questions/5201689/rmagick-gem-install-cant-find-magick-config
+http://stackoverflow.com/questions/1547008/how-to-encode-media-in-base64-given-url-in-ruby
