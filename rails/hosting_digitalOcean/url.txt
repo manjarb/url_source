@@ -1,4 +1,5 @@
 https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
 // https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04#how-to-set-up-git
 https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-ubuntu-14-04
