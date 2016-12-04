@@ -14,3 +14,4 @@ http://stackoverflow.com/questions/21098534/shared-children-not-working-in-capis
 http://www.december.com/unix/ref/chmod.html
 http://stackoverflow.com/questions/29578142/how-to-install-json-gem-failed-to-build-gem-native-extensionmac-10-10
 http://stackoverflow.com/questions/16973018/createuser-could-not-connect-to-database-postgres-fatal-role-tom-does-not-e
+http://stackoverflow.com/questions/21276934/pipeline-assets-precompile-disable-does-not-seem-to-work
