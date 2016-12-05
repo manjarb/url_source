@@ -20,3 +20,5 @@ http://stackoverflow.com/questions/21276934/pipeline-assets-precompile-disable-d
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server
 https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
 https://docs.npmjs.com/getting-started/installing-node
+https://medium.com/@cameronbwhite90/deploy-react-webpack-to-digital-ocean-with-nginx-and-github-b83d1cf4be0b#.fcwshwi7z
+http://www.davidmeents.com/how-to-simply-deploy-a-react-app-on-digital-ocean/
