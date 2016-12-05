@@ -1,0 +1,3 @@
+https://medium.com/@cameronbwhite90/deploy-react-webpack-to-digital-ocean-with-nginx-and-github-b83d1cf4be0b#.fcwshwi7z
+http://www.davidmeents.com/how-to-simply-deploy-a-react-app-on-digital-ocean/
+http://askubuntu.com/questions/4667/where-to-declare-environment-variables
