@@ -18,3 +18,5 @@ http://stackoverflow.com/questions/29578142/how-to-install-json-gem-failed-to-bu
 http://stackoverflow.com/questions/16973018/createuser-could-not-connect-to-database-postgres-fatal-role-tom-does-not-e
 http://stackoverflow.com/questions/21276934/pipeline-assets-precompile-disable-does-not-seem-to-work
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server
+https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+https://docs.npmjs.com/getting-started/installing-node
