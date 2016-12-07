@@ -5,3 +5,5 @@ http://stackoverflow.com/questions/16337107/how-to-access-redis-log-file
 http://stackoverflow.com/questions/14790727/how-to-detach-sidekiq-process-once-started-in-terminal/16263330#16263330
 http://stackoverflow.com/questions/22958188/how-to-run-sidekiq-in-production-server
 https://github.com/mperham/sidekiq/wiki/Using-Redis
+http://stackoverflow.com/questions/24446157/rails-how-to-restart-sidekiq
+http://stackoverflow.com/questions/12143350/gracefully-shutting-down-sidekiq-processes
