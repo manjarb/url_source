@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/1421806/using-will-paginate-without-total-entries-to-improve-a-lengthy-query
