@@ -2,8 +2,6 @@
 
 My Portfolio site
 
-https://thaimeditationcenter.com/
-
 http://techsaucesummit.co/
 
 http://glowyourstory.com/
@@ -19,3 +17,5 @@ http://www.hackfairbkk.com/
 http://www.biginsurancebrokers.com/
 
 http://www.ii.co.th/event/
+
+https://thaimeditationcenter.com/
