@@ -1,3 +1,4 @@
 SSL
 https://www.digitalocean.com/community/tutorials/how-to-install-an-ssl-certificate-from-a-commercial-certificate-authority
 http://stackoverflow.com/questions/10432266/https-redirect-for-rails-app-behind-proxy#10432596
+http://askubuntu.com/questions/402980/give-user-write-access-to-folder
