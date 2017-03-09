@@ -4,7 +4,7 @@ My Portfolio site
 
 https://thaimdb.co/
 
-http://techsaucesummit.co/
+http://app.testhero.in.th/
 
 http://glowyourstory.com/
 
@@ -13,8 +13,6 @@ http://thebkkinternational.com/
 http://jarbstudio.com/
 
 http://www.passawarn.co.th/
-
-http://www.hackfairbkk.com/
 
 http://www.biginsurancebrokers.com/
 
