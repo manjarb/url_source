@@ -1,0 +1,1 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-16-04#upgrading-wordpress
