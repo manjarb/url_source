@@ -2,3 +2,6 @@ css
 
 image vertical align
 http://jsfiddle.net/kizu/4RPFa/4570/
+
+Paragraph Truncate
+http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/
