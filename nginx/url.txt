@@ -1,2 +1,3 @@
 https://www.digitalocean.com/community/questions/how-can-i-configure-nginx-to-deliver-static-html-pages
 https://www.quora.com/What-are-some-good-online-resources-to-learn-Nginx
+https://www.garron.me/en/linux/nginx-reverse-proxy.html
