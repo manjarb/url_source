@@ -2,7 +2,11 @@
 
 My Portfolio site
 
-https://thaimdb.co/
+https://dnagenie.co/home
+
+https://mydnapro.com/home
+
+[X]https://thaimdb.co/
 
 http://glowyourstory.com/
 
