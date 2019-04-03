@@ -6,6 +6,8 @@ https://dnagenie.co/home
 
 https://mydnapro.com/home
 
+https://tourist.emquartier.co.th/
+
 [X]https://thaimdb.co/
 
 http://glowyourstory.com/
